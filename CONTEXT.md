@@ -27,7 +27,7 @@ anonbox is a Go CLI that manages named, persistent, anonymized "machines" over t
 
 Standing per-change rules agents must follow in this repo.
 
-<!-- No standing per-change rule set yet (no changeset / CHANGELOG / news-fragment convention). Add yours here, or delete this section. For enforcement, wire your own check into the `.dorfl.json` `verify` gate. -->
+<!-- No standing per-change rule set yet (no changeset / CHANGELOG / news-fragment convention). Add yours here, or delete this section. For enforcement, wire your own check into the `dorfl.json` `verify` gate. -->
 
 ## Skills this repo uses
 
